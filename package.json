@@ -1,0 +1,17 @@
+{
+  "name": "fastdevs",
+  "version": "1.0.0",
+  "description": "This is a small description of devs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "faststudy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "firebase": "^11.0.2",
+    "firebase-admin": "^13.0.1"
+  }
+}
